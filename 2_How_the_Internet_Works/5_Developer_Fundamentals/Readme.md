@@ -2,6 +2,7 @@
 
 To enhance website performance and create a smoother user experience, consider these three crucial factors:
 
+![Web-Performance](https://github.com/ShaikAfridh/Web_DeV/blob/main/2_How_the_Internet_Works/5_Developer_Fundamentals/performance.png)
 1. **Server Location** 🏠🌍:
    - The server's location is like the home base for your website.
    - *Tip*: Choose the server's location strategically based on your target audience's location. A closer server reduces load times.
