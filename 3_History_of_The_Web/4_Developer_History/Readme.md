@@ -4,7 +4,7 @@ In the ever-evolving landscape of web development, the tools and technologies us
 
 ## Full Stack Web Dev in the 20s 🕰️
 
-![Front-End and Back-End in the 20s](image_link_1)
+![Front-End and Back-End in the 20s](https://github.com/ShaikAfridh/Web_DeV/blob/main/3_History_of_The_Web/4_Developer_History/lamp.png)
 
 In this nostalgic snapshot, we find the tech stack of the 20s era:
 
@@ -24,7 +24,7 @@ While this combination served well in its time, it's worth noting that jQuery, o
 ## Modern of Full Stack DeV:
 
 Fast forward to the present day, and we have an entirely new tech stack:
-
+![FullDev](https://github.com/ShaikAfridh/Web_DeV/blob/main/3_History_of_The_Web/4_Developer_History/fullstackweb.png)
 ### Front-End (HTML5 and CSS3):
 - **HTML5**: The latest iteration of HTML, offering improved structure and multimedia support.
 - **CSS3**: Bringing a plethora of styling enhancements and animations.
