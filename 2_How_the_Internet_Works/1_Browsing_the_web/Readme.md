@@ -2,7 +2,7 @@
 
 How we just casullay search things in web browser and get the desired output in our browsers like Google Chrome, MS Edge.. etc. In below scenario we can see how Internet works! in backend.
 
-
+![WEB](https://github.com/ShaikAfridh/Web_DeV/blob/main/2_How_the_Internet_Works/1_Browsing_the_web/Browsing_Web.png)
 
 ## 🖥️ Step 1: Opening Chrome
 
