@@ -8,7 +8,7 @@ Ever wondered how the internet connects us all, from your home to websites on th
 
 ---
 
-![Internet Backbone](URL_of_the_image)
+![Internet Backbone](https://github.com/ShaikAfridh/Web_DeV/blob/main/2_How_the_Internet_Works/3_the_internet_backbone/wireless-diagram.gif)
 
 In this image, we'll explore how devices connect to a router, how routers connect to modems, and how wireless signals traverse the airwaves, eventually reaching the ISP and the Internet backbone. 📡🌐
 
