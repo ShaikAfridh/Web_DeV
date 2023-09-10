@@ -7,6 +7,7 @@
 Have you ever wondered what happens when you type "google.com" into your web browser's address bar and hit Enter? 🤔 In this blog, we'll take you on a journey through the digital realms to discover the inner workings of Google's web server and explore the enchanting world of the Inspect Element feature that allows you to tinker with webpages without causing any permanent changes. 🌟
 
 ---
+![Google-Web](https://github.com/ShaikAfridh/Web_DeV/blob/main/2_How_the_Internet_Works/2_Breaking_Google/Breaking_GOOGle.png)
 
 ## 🌐 The Gateway to Google
 
