@@ -45,15 +45,7 @@ Once your signals are inside the ISP's network, they embark on a journey through
 🌐 (ISP) → 🚀 (Internet Backbone)
 
 ---
-
-
-
-
-# 🌐 Internet Backbone through submarine cable map 🌐
-
----
-
-## 🌐 Introduction
+## 🌐 Internet Backbone through submarine cable map 🌐
 
 The internet is amazing, but how does it actually work? Let's find out! We'll start by exploring SubmarineCableMap.com, a cool website that shows how underwater cables connect the world. Then, we'll learn the basics of how the internet lets computers talk to each other. 🌍🔌
 
