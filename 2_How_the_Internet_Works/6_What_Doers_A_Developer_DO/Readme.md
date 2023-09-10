@@ -1,4 +1,6 @@
 ## What Does A DeVeloper DO!
+## Full Stack DeVeloper
+![Fullstack](https://github.com/ShaikAfridh/Web_DeV/blob/main/2_How_the_Internet_Works/6_What_Doers_A_Developer_DO/Fullstack.png)
 
 ### Front End Developer
 A front-end developer focuses on creating the user interface and user experience of a website or application. They use:
